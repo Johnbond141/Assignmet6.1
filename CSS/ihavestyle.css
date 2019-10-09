@@ -1,0 +1,79 @@
+body
+	{
+		width : 1000px;
+		margin : auto;
+		max-width : 1000px;
+	}
+
+#nav, #header
+	{
+		text-align : center;
+	}
+#image1
+	{
+		float : left;
+		width : 80%;
+		height : 200px;
+	}
+	
+#image2
+	{
+		float : right;
+		width : 20%;
+	}
+
+#content1, #content3
+	{
+		clear : both;
+		float : left;
+		width : 50%;
+	}
+	
+#image3, #image5
+	{
+		float : left;
+		width : 50%;
+		height : 200px;
+		
+	}
+	
+#paragraph1, #paragraph3
+	{
+		float : left;
+		width : 50%;
+		
+	}
+	
+#content2, #content4
+	{
+		float : right;
+		width : 50%;
+	}
+	
+#image4, #image6
+	{
+		float: left;
+		width : 50%;
+		height : 200px;
+	}
+	
+#paragraph2, #paragraph4
+	{
+		float : left;
+		width : 50%;
+	}
+	
+#logo
+	{
+		float : left;
+		clear : both;
+		width : 30%;
+		height : 200px;
+	}
+
+#paragraph5
+	{
+		float : right;
+		width : 70%;
+	}
+	
